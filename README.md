@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bymak87
-- 👀 I’m interested in ... creating intuitive user experiences. 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... creating intuitiveand delightful user experiences. 
+- 🌱 I’m currently learning ... gatsby.
+- 💞️ I’m looking to collaborate on ... a new product. 
+- 📫 How to reach me ... bymak87@gmail.com
 
 <!---
 bymak87/bymak87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
